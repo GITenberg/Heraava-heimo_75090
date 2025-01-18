@@ -1,0 +1,28 @@
+_repo: Heraava-heimo_75090
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Helanen, Vilho
+    birthdate: 1899
+    deathdate: 1952
+    gutenberg_agent_id: '57220'
+    url: http://www.gutenberg.org/2009/agents/57220
+    wikipedia: https://fi.wikipedia.org/wiki/Vilho_Helanen
+description: ''
+gutenberg_issued: '2025-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75090'
+language: fi
+pgterms:marc905: 20240801101544helanen
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Heräävä heimo
+url: http://www.gutenberg.org/ebooks/75090
